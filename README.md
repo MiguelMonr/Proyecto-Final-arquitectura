@@ -2,7 +2,7 @@
 
 **Curso**: Arquitectura de Sistemas Distribuidos - ITAM  
 **Semestre**: Otoño 2025  
-**Equipo**: 2 personas  
+**Equipo**: 3 personas  
 **Fecha Entrega**: Semana 17
 
 ---
